@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL406: James Joyce"
+course_description: "A detailed study of the life and historical and cultural contexts of the Irish short story writer and novelist James Joyce, including a close examination of his short-story collection Dubliners, as well as his novels Portrait of the Artist as a Young Man, Ulysses, and Finnegan’s Wake."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: James Joyce the Man** <span id="1"></span> 
 *We will begin this course by introducing ourselves to James Joyce the
 man, learning what we can about his life and times, including the

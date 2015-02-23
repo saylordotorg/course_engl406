@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL406: James Joyce"
+course_description: "A detailed study of the life and historical and cultural contexts of the Irish short story writer and novelist James Joyce, including a close examination of his short-story collection Dubliners, as well as his novels Portrait of the Artist as a Young Man, Ulysses, and Finnegan’s Wake."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Short Fiction** <span id="2"></span> 
 *James Joyce described Dublin as a city of paralysis, and many of his
 short stories in* The Dubliners*deal with this concept, featuring
