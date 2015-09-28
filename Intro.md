@@ -86,3 +86,4 @@ computer.
 - [Unit 4](https://legacy.saylor.org/engl406/Unit04/)
 - [Unit 5](https://legacy.saylor.org/engl406/Unit05/)
 - [Unit 6](https://legacy.saylor.org/engl406/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL406/ENGL406-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL406/ENGL406-FinalExam-Answers.html)
