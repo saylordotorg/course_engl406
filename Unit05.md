@@ -6,8 +6,8 @@ next: ../Unit06
 previous: ../Unit04
 ---
 **Unit 5: Finnegan's Wake** <span id="5"></span> 
-*If readers find* Ulysses*challenging and at times inscrutable: welcome
-to* Finnegan’s Wake*, a bold and chaotic adventure into language.
+*If readers find *Ulysses* challenging and at times inscrutable: welcome
+to *Finnegan’s Wake*, a bold and chaotic adventure into language.
  Lacking a conventional plot and nearly creating its own language, this
 final work by James Joyce has been alternately spurned as gibberish and
 revered as genius.  In this unit, we will first read the work in its
@@ -18,10 +18,9 @@ finally move on to major tropes and themes that emerge in the text.*
 This unit should take you 27 hours to complete.
 
 ☐    Subunit 5.1: 18 hours
-
 ☐    Subunit 5.2: 9 hours
 
-**Unit5 Learning Outcomes**  
+**Unit 5 Learning Outcomes**  
 Upon successful completion of this unit, the student will be able to:
 
 -   Trace the development of Joyce’s literary style to *Finnegans Wake*,
@@ -35,8 +34,9 @@ Upon successful completion of this unit, the student will be able to:
 -   Identify and explain problems with performing traditional critical
     analyses of *Finnegans Wake*.
 
--   **Reading: Trent University Finnegans Web’s version of James Joyce’s
+    **Reading: Trent University Finnegans Web’s version of James Joyce’s
     Finnegans Wake; The James Joyce Center’s “Finnegan’s Wake”**
+    
     Link: Trent University’s Finnegans Web’s version of James Joyce’s
     [*Finnegans Wake*](http://www.trentu.ca/faculty/jjoyce/) (HTML); The
     James Joyce Center’s “[Finnegans
@@ -56,10 +56,10 @@ Upon successful completion of this unit, the student will be able to:
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**5.1 Language and Style** <span id="5.1"></span> 
+**5.1 Language and Style** <span id="5.1"></span>  
 **5.1.1 Stream-of-Consciousness Narration at the Next Level: The
 Language of Dreams** <span id="5.1.1"></span> 
--   **Reading: Ohio State University’s Knowledge Bank: Coping with
+    **Reading: Ohio State University’s Knowledge Bank: Coping with
     Joyce: Kimberly Devlin’s “The Dialectical Logic of Joyce’s Dream
     Text”**
     Link: Ohio State University’s Knowledge Bank: *Coping with Joyce*:
@@ -73,9 +73,10 @@ Language of Dreams** <span id="5.1.1"></span> 
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**5.1.2 Cyclicality and Repetition** <span id="5.1.2"></span> 
--   **Reading: Hypermedia Joyce Studies: Jim LeBlanc’s “The Closing Word
+**5.1.2 Cyclicality and Repetition** <span id="5.1.2"></span>  
+    **Reading: Hypermedia Joyce Studies: Jim LeBlanc’s “The Closing Word
     of Finnegans Wake”**
+    
     Link: Hypermedia Joyce Studies: Jim LeBlanc’s [“The Closing Word of
     *Finnegans
     Wake*”](http://hjs.ff.cuni.cz/archives/v2/leblanc/index.html)(HTML)  
@@ -87,10 +88,11 @@ Language of Dreams** <span id="5.1.1"></span> 
     displayed on the webpage above.
 
 **5.1.3 Beginnings and Endings: Thematic and Structural Concerns** <span
-id="5.1.3"></span> 
--   **Reading: University of Wisconsin’s James Joyce Scholars Center:
+id="5.1.3"></span>  
+    **Reading: University of Wisconsin’s James Joyce Scholars Center:
     Margot Norris’s The Decentered Universe of Finnegans Wake: A
     Structuralist Analysis: “Reading Finnegans Wake”**
+    
     Link: University of Wisconsin’s James Joyce Scholars Center: Margot
     Norris’s *The Decentered Universe of Finnegans Wake: A Structuralist
     Analysis*: [“Reading *Finnegans
@@ -104,9 +106,10 @@ id="5.1.3"></span> 
 
 **5.1.4 What Tongue Is Joyce Speaking In?—Thoughts on the Incorporation
 of Multiple Languages and Literary Traditions** <span
-id="5.1.4"></span> 
--   **Reading: Hypermedia Joyce Studies: Mark Nunes’s "Semiotic
+id="5.1.4"></span>  
+    **Reading: Hypermedia Joyce Studies: Mark Nunes’s "Semiotic
     Perturbations: What the Frog's Eye Tells Us About Finnegans Wake"**
+    
     Link: Hypermedia Joyce Studies: Mark Nunes’s ["Semiotic
     Perturbations: What the Frog's Eye Tells Us About *Finnegans
     Wake*"](http://hjs.ff.cuni.cz/archives/v3/nunes.html) (HTML)  
@@ -121,10 +124,11 @@ id="5.1.4"></span> 
 
 **5.2 Major Tropes and Themes** <span id="5.2"></span> 
 **5.2.1 The Narrative of a Dream and the Absence of Standard
-Analysis-Friendly Conventions** <span id="5.2.1"></span> 
--   **Reading: University of Wisconsin’s James Joyce Scholars Center:
+Analysis-Friendly Conventions** <span id="5.2.1"></span>  
+    **Reading: University of Wisconsin’s James Joyce Scholars Center:
     Margot Norris’s The Decentered Universe of Finnegans Wake: A
     Structuralist Analysis: “Dream and Poetry”**
+    
     Link: University of Wisconsin’s James Joyce Scholars Center: Margot
     Norris’s *The Decentered Universe of Finnegans Wake: A Structuralist
     Analysis*: [“Dream and
@@ -136,10 +140,11 @@ Analysis-Friendly Conventions** <span id="5.2.1"></span> 
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**5.2.2 The Concept of Time** <span id="5.2.2"></span> 
--   **Reading: Ohio State University’s Knowledge Bank: Joyce in the
+**5.2.2 The Concept of Time** <span id="5.2.2"></span>  
+    **Reading: Ohio State University’s Knowledge Bank: Joyce in the
     Hyberian Metropolis: Derek Attridge’s “Countlessness of Livestories:
     Narrativity in Finnegans Wake”**
+    
     Link: Ohio State University’s Knowledge Bank: *Joyce in the Hyberian
     Metropolis*: Derek Attridge’s [“Countlessness of Livestories:
     Narrativity in *Finnegans
@@ -152,10 +157,11 @@ Analysis-Friendly Conventions** <span id="5.2.1"></span> 
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**5.2.3 Marriage and Marital Relations** <span id="5.2.3"></span> 
--   **Reading: University of Wisconsin’s James Joyce Scholars Center:
+**5.2.3 Marriage and Marital Relations** <span id="5.2.3"></span>  
+    **Reading: University of Wisconsin’s James Joyce Scholars Center:
     Margot Norris’s The Decentered Universe of Finnegans Wake: A
     Structuralist Analysis: “The Themes”**
+    
     Link: University of Wisconsin’s James Joyce Scholars Center: Margot
     Norris’s *The Decentered Universe of Finnegans Wake: A Structuralist
     Analysis*: [“The
@@ -172,10 +178,11 @@ Analysis-Friendly Conventions** <span id="5.2.1"></span> 
      Terms of Use: Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**5.2.4 Guilt and Forgiveness** <span id="5.2.4"></span> 
--   **Reading: University of Wisconsin’s James Joyce Scholars Center:
+**5.2.4 Guilt and Forgiveness** <span id="5.2.4"></span>  
+    **Reading: University of Wisconsin’s James Joyce Scholars Center:
     Margot Norris’s The Decentered Universe of Finnegans Wake: A
     Structuralist Analysis: “The Themes”**
+    
     Link: University of Wisconsin’s James Joyce Scholars Center: Margot
     Norris’s *The Decentered Universe of Finnegans Wake: A Structuralist
     Analysis*: [“The
@@ -190,4 +197,6 @@ Analysis-Friendly Conventions** <span id="5.2.1"></span> 
     displayed on the webpage above.
 
 **5.2.5 Cycles, Disconnections, and Paradoxes** <span
-id="5.2.5"></span> 
+id="5.2.5"></span>  
+    *No material for this subunit.*
+    <!-- Note added 14AUG2017; no indication in original course if this topic is covered elsewhere, e.g. in Norris, or if no materials were found. -->
