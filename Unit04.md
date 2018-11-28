@@ -167,7 +167,7 @@ Relations** <span id="4.1.6"></span> 
     Method—Regarding the Stream of Consciousness”**
     Link: Yale University’s The Modernism Lab: [“James Joyce’s
     Method—Regarding the Stream of
-    Consciousness”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/James-Joyce-Stream-of-Consciousness.pdf) (PDF)  
+    Consciousness”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/James-Joyce-Stream-of-Consciousness.pdf) (PDF)  
         
      Instructions: Read the short introduction to the novel, which
     discusses Joyce’s technique of stream of conscious narration.  
@@ -185,7 +185,7 @@ and Molly** <span id="4.2.2"></span> 
 -   **Reading: Yale University’s The Modernism Lab: “Ulysses, Order and
     Myth”**
     Link: Yale University’s The Modernism Lab: [“*Ulysses*, Order and
-    Myth”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Ulysses-Order-and-Myth.pdf)
+    Myth”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Ulysses-Order-and-Myth.pdf)
     (PDF)  
         
      Instructions: Read the brief essay here for more about the
@@ -306,7 +306,7 @@ id="4.2.5"></span> 
     Cambridge Introduction to Modernism: “Ulysses”**
     Link: Yale University’s The Modernism Lab: Dr. Pericles Lewis’s
     *Cambridge Introduction to Modernism*:
-    ["*Ulysses*"](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Ulysses.pdf)
+    ["*Ulysses*"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Ulysses.pdf)
     (PDF)  
         
      Instructions: Please read this short excerpt from the *Cambridge
@@ -325,7 +325,7 @@ id="4.2.5"></span> 
 -   **Reading: Robot Wisdom: Jorn Barger’s “James Joyce’s Punctuation in
     Ulysses”**
     Link: Robot Wisdom: Jorn Barger’s ["James Joyce's Punctuation in
-    *Ulysses*"](https://resources.saylor.org/archived/wp-content/uploads/2011/01/James-Joyce-Punctuation.pdf)(PDF)  
+    *Ulysses*"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/James-Joyce-Punctuation.pdf)(PDF)  
         
      Instructions: Please read this short piece on Joyce’s use of
     language in the novel.  

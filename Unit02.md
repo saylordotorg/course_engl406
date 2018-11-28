@@ -376,7 +376,7 @@ and Identity** <span id="2.3.1"></span> 
 -   **Reading: Morris Melotti’s “Consciousness and Death in James
     Joyce's *Dubliners*”**
     Link: Morris Melotti’s [“Consciousness and Death in James Joyce's
-    *Dubliners*”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ENGL406-2.3.6-ConsciousnessAndDeath.pdf) (PDF)  
+    *Dubliners*”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/ENGL406-2.3.6-ConsciousnessAndDeath.pdf) (PDF)  
         
      Instructions: Read pages 97 – 131 of the dissertation.  
         

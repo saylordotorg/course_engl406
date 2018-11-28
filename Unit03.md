@@ -66,7 +66,7 @@ Sensibility** <span id="3.1"></span> 
     Link: Yale University’s The Modernism Lab: Dr. Pericles Lewis’s
     *Cambridge Introduction to Modernism*: [“*A Portrait of the Artist
     as a Young
-    Man*”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl406-3.1.1-A-Portrait-of-the-Artist-as-a-Young-Man.pdf) (PDF)  
+    Man*”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/engl406-3.1.1-A-Portrait-of-the-Artist-as-a-Young-Man.pdf) (PDF)  
       
      Instructions: Please read this short excerpt from the *Cambridge
     Introduction to Modernism*.  The section linked here provides a

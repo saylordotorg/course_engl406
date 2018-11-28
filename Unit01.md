@@ -123,7 +123,7 @@ id="1.1.3"></span> 
 -   **Reading: Herta Muller’s “Books and Writers”: “James Joyce” and
     Cornell University’s James Joyce Collection: “Writing Amid Chaos”**
     Link: Herta Muller’s “Books and Writers”: [“James
-    Joyce”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/James-Augustine-Aloysius-Joyce.pdf)
+    Joyce”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/James-Augustine-Aloysius-Joyce.pdf)
     (PDF) and Cornell University’s James Joyce Collection: [“Writing
     Amid
     Chaos”](http://rmc.library.cornell.edu/joyce/writingchaos/index.html)(HTML)  
@@ -195,7 +195,7 @@ id="1.1.7"></span> 
 -   **Reading: Great Writers Inspire: Cleo Hanaway’s “James Joyce: A
     Biography”**
     Link: Great Writers Inspire: Cleo Hanaway’s [“James Joyce: A
-    Biography”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ENGL406-1.1.7-JamesJoyceABiography.pdf)
+    Biography”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/ENGL406-1.1.7-JamesJoyceABiography.pdf)
     (PDF)  
         
      Instructions: Read this short biography and consider how the world
@@ -211,7 +211,7 @@ id="1.1.7"></span> 
 -   **Reading: Robot Wisdom: Jorn Barger’s “James Joyce’s Eyesight and
     Blindness”**
     Link: Robot Wisdom: Jorn Barger’s [“James Joyce’s Eyesight and
-    Blindness”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/James-Joyce-Eyesight.pdf)(PDF)  
+    Blindness”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/James-Joyce-Eyesight.pdf)(PDF)  
         
      Instructions: Please read the short piece here for more information
     about Joyce’s blindness, including some quotes by Joyce on the
@@ -227,7 +227,7 @@ Life** <span id="1.2.1"></span> 
 -   **Reading: Robot Wisdom: Jorn Barger’s “James Joyce’s Literary
     Tastes”**
     Link: Robot Wisdom: Jorn Barger’s [“James Joyce’s Literary
-    Tastes”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/James-Joyce-Literary-Tastes.pdf)(PDF)  
+    Tastes”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/James-Joyce-Literary-Tastes.pdf)(PDF)  
         
      Instructions: Please look over the section under the header “Ibsen”
     for more about Joyce’s reaction to the writer.  You may also wish to
@@ -269,7 +269,7 @@ Claritas** <span id="1.2.2"></span> 
     “Who Goes with Fergus”**
     Link: The Saylor Foundation’s version of William Butler Yeats’ [“Who
     Goes With
-    Fergus”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Who-Goes-with-Fergus.pdf) (PDF)  
+    Fergus”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Who-Goes-with-Fergus.pdf) (PDF)  
           
      Instructions: Please read the entirety of the short poem linked
     here.  
